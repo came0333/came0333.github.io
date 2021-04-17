@@ -1,8 +1,13 @@
-Social media links and nav icon is by font awesome
-photos from "pexels.com"
-Heder image is called: .
-Photos for the portfolio section are by
+Social media links and hamburger icon is by font awesome
+Header photos from "pexels.com"
 
-Contact header is by Patrica Lazaro
-One of the main challenes I had to face was trying to male the portfolipo
- page look good. This page took far longer than any other part.
+I ceated my site using css grid,flexbox and some Js plugins. I wanted the  site to have
+a clean look to it and make my photography be the focus. I origionally went with a darker them but I felt like it 
+was hard to read at times.
+
+A challenge I had was the photo gallery
+ I felt like like I was never satisfied with the way it looked so i ended up making a basic 
+ grid design that is easy to look through at all screen types.
+
+ I learned how to use the nth child elements before hand I never really got how they worked.
+
